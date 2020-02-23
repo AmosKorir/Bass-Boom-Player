@@ -1,4 +1,11 @@
-# MVP-Android-Template
+#Bass, Boom Music play
 
-Android Template Using MVPP with clean Architecture.
-Documentation will come later
+###Android Music player
+It is under development, They main aim of the of the project is to implement **3D music effect**
+
+<table>
+<tr>
+<td></td>
+<td></td>
+</tr>
+</table>
